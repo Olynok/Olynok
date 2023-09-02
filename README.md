@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Olynok
 - 👀 I’m interested in games and sports
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on idk?
-- 📫 How to reach me bear328ony@gmail.com
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: bear328ony@gmail.com
 - 
 
 <!---
